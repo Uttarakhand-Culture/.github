@@ -36,7 +36,7 @@ Our platform offers a comprehensive journey through Uttarakhand's culture, histo
      
 ### How to use this website
 
-[![How to use this website](hhttps://github.com/user-attachments/assets/c1dc7a9e-50c9-4844-82dc-5ef51f4bdd79
+[![How to use this website](https://github.com/user-attachments/assets/c1dc7a9e-50c9-4844-82dc-5ef51f4bdd79
 )](https://github.com/user-attachments/assets/c1dc7a9e-50c9-4844-82dc-5ef51f4bdd79
 )
 <!-- ## **How to Contribute to this Project** 👨🏻‍💻
